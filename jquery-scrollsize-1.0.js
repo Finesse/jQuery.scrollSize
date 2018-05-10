@@ -1,7 +1,7 @@
 /**
 	jQuery microplugin that gets size of inner content of scrollable elements
 
-	https://github.com/FinesseRus/jQuery.scrollSize
+	https://github.com/Finesse/jQuery.scrollSize
 
 	v1.0
 */

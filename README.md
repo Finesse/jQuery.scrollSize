@@ -6,7 +6,7 @@ Simple jQuery microplugin that gets size of inner content of scrollable elements
 
 ## Usage
 
-First of all download and include [jQuery](http://jquery.com/download/) and [jQuery.scrollSize](https://github.com/FinesseRus/jQuery.scrollSize/archive/master.zip) plugin to HTML:
+First of all download and include [jQuery](http://jquery.com/download/) and [jQuery.scrollSize](jquery-scrollsize-1.0.min.js) plugin to HTML:
 
 	<script src="jquery-1.11.3.min.js"></script>
 	<script src="jquery-scrollsize-1.0.min.js"></script>

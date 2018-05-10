@@ -6,7 +6,7 @@
 
 ## Использование
 
-В первую очередь скачайте и подключите к HTML коду библиотеку [jQuery](http://jquery.com/download/) и плагин [jQuery.scrollSize](https://github.com/FinesseRus/jQuery.scrollSize/archive/master.zip):
+В первую очередь скачайте и подключите к HTML коду библиотеку [jQuery](http://jquery.com/download/) и плагин [jQuery.scrollSize](jquery-scrollsize-1.0.min.js):
 
 	<script src="jquery-1.11.3.min.js"></script>
 	<script src="jquery-scrollsize-1.0.min.js"></script>
